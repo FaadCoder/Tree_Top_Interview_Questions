@@ -250,7 +250,7 @@ public:
 int main()
 {
 	fast;
-	take_input;
+	// take_input;
 	tree *root1=NULL;
 	root1=root1->insert(7,root1);
 	root1=root1->insert(2,root1);
